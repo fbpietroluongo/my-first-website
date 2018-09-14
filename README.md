@@ -2,5 +2,5 @@
  
   Welcome
   
- #list of streams on the top
- ##Cards are located as content
+ # list of streams on the top
+ ## Cards are located as content
